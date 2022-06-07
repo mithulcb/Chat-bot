@@ -1,3 +1,3 @@
 # Chat-bot
-#My first epxerience sarting with ML.
-#Basic chat bot using NLTK.
+My first epxerience sarting with ML.\n
+Basic chat bot using NLTK.
